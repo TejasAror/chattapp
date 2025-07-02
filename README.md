@@ -12,7 +12,6 @@ A full-stack real-time chat application built with **Next.js**, **Express.js**, 
 - 🧱 Fully typed using TypeScript (frontend + backend)
 - 🌐 Next.js frontend (React Server Components + TailwindCSS)
 - 🔐 JWT-based user authentication
-- 🧩 Modular monorepo setup
 
 ---
 
